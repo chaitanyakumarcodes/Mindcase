@@ -1,0 +1,9 @@
+{
+    "functions": {
+      "api/index.js": {
+        "runtime": "vercel-node@0.6.1"
+      }
+    }
+  }
+
+  
